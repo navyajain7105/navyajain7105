@@ -1,117 +1,195 @@
-<p align="center">
-  <a href="https://github.com/navyajain7105">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Navya" alt="Hello! I'm Navya" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=750&lines=LLM+%26+Agentic+AI+Engineer;Building+RAG+pipelines+%26+autonomous+agents;Researching+Graph+Neural+Networks;IEEE+WIE+Chairperson+%40+LNMIIT;Currently%3A+LLM+Engineer+Intern+%40+Quiddity" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:1a3d2e,100:2ea043&text=Navya%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=LLM%20%26%20Agentic%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-2ea043?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea043&height=2&width=800"/>
-</p>
+<div align="center">
 
-### 🧠 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=900&lines=👋+Hey!+I'm+Navya;🤖+LLM+%26+Agentic+AI+Engineer;🧠+RAG+%7C+LangChain+%7C+Autonomous+Agents;🕸️+Researching+Graph+Neural+Networks;💼+LLM+Engineer+Intern+%40+Quiddity;🎓+IEEE+WIE+Chairperson+%40+LNMIIT"/>
 
-\`\`\`yaml
-name: Navya Jain
-role: LLM & Agentic AI Engineer
-education: B.Tech CSE @ LNMIIT (2023 - 2027)
-currently_working_on:
-  - Graph coarsening research for fake news detection (UPFD dataset)
-  - LLM Engineer Internship @ Quiddity Software Solutions
-leadership: IEEE WIE Chairperson @ LNMIIT
-focus: "the gap between 'the model works in a demo' and 'the model works reliably'"
-\`\`\`
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea043&height=2&width=800"/>
-</p>
+<div align="center">
+<img align="center" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-### 🔬 Research Spotlight
+```python
+class NavyaJain:
 
-<table align="center">
+    def __init__(self):
+        self.role = "LLM & Agentic AI Engineer"
+        self.education = "B.Tech CSE @ LNMIIT (2023 - 2027)"
+        self.currently = [
+            "LLM Engineer Intern @ Quiddity Software Solutions",
+            "IEEE WIE Chairperson @ LNMIIT",
+            "Researching graph coarsening for fake news detection"
+        ]
+        self.obsessed_with = [
+            "Agentic AI systems", "RAG pipelines",
+            "Graph Neural Networks", "the gap between demo and production"
+        ]
+
+    def currently_reading(self):
+        return "Graph Coarsening with Neural Networks (ICLR 2021)"
+
+navya = NavyaJain()
+```
+
+## 🌌 Philosophy
+
+> "A model that's right in the demo and wrong in production hasn't actually learned anything — it's memorized the demo."
+
+<div align="center">
+
+### ⚡ Coarsening graphs, training agents, chasing edge cases since 2023
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2ea043&height=3"/>
+</div>
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,react,nodejs,mongodb,git,docker,linux&perline=9"/>
+
+</div>
+
+# 🔬 Currently Researching
+
+<div align="center">
+
+| Focus | Details |
+|---|---|
+| 🕸️ Graph Coarsening | UPFD dataset · spectral methods · GCN/GraphSAGE/GAT · aiming to publish on Cora |
+| 📄 ICIVC 2026 Paper | Accepted — CNN + ViT ensemble for food image recognition |
+
+</div>
+
+# 🏆 Highlights
+
+<div align="center">
+
+🎓 IEEE WIE Chairperson — LNMIIT
+
+📄 Paper Accepted — ICIVC 2026
+
+💼 LLM Engineer Intern — Quiddity Software Solutions
+
+🕸️ Graph Coarsening Research — UPFD / GOREN
+
+💻 500+ LeetCode Problems
+
+</div>
+
+# 🤖 What I Love Building
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-**Graph Coarsening for Fake News Detection**
-Working on UPFD with PyTorch Geometric — comparing spectral coarsening methods (Variation, Algebraic Distance, Kron Reduction) against GCN / GraphSAGE / GAT. Studied *"Graph Coarsening with Neural Networks"* (GOREN, ICLR 2021) in depth and implemented the GK algorithm (2025) as a base. Building toward a fully learnable, task-adaptive coarsening method — aiming to publish on Cora.
+## 🧠 Agentic AI / LLM
+✔ Krish-AI — multilingual crop-disease agent
+
+✔ ArtisanGully — LLM platform for artisans
+
+✔ AI Resume Analyzer — RAG (FAISS + LangChain)
+
+✔ Autonomous agent workflows
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-**📄 Paper Accepted — ICIVC 2026**
-A heterogeneous CNN + Vision Transformer ensemble for food image recognition.
+## 🕸️ Applied ML / Research
+✔ Graph coarsening pipelines (PyTorch Geometric)
 
-**🏆 Highlights**
-- IEEE WIE Chairperson, LNMIIT
-- 500+ problems solved (C++)
+✔ AutoEIT — automated exam scoring
+
+✔ CNN + ViT ensembles
+
+✔ Spectral graph methods
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea043&height=2&width=800"/>
-</p>
+# 🎯 2026 Goals
 
-### 🚀 What I Build
+```yaml
+goals:
+  - Publish graph coarsening research (Cora)
+  - Ship production-grade agentic systems
+  - Grow IEEE WIE initiatives at LNMIIT
+  - Deepen GNN + RAG expertise
+  - Contribute to open source
+  - 1000+ LeetCode Problems
+```
 
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2ea043&height=3"/>
+</div>
 
-**🤖 Agentic AI / LLM**
-- Krish-AI — multilingual crop-disease diagnosis agent
-- ArtisanGully — LLM platform for local artisans
-- AI Resume Analyzer — RAG (FAISS + LangChain)
+# 💬 A Quote I Keep Coming Back To
 
-</td>
-<td width="50%">
+<div align="center">
 
-**⚙️ Applied ML**
-- AutoEIT — automated Spanish exam scoring
-- Graph coarsening pipeline (PyTorch Geometric)
-- CNN + ViT ensemble (ICIVC 2026 paper)
+> "It is not that I'm so smart. But I stay with the questions much longer."
+> — Albert Einstein
 
-</td>
-</tr>
-</table>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,react,nodejs,mongodb,git,docker,linux&perline=9" />
-</p>
+# 📊 Advanced GitHub Metrics
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea043&height=2&width=800"/>
-</p>
+<div align="center">
 
-### 📊 GitHub Stats
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyajain7105&theme=tokyonight"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=navyajain7105&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=navyajain7105&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+</div>
 
-### 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navyajain7105&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navyajain7105&theme=tokyonight"/>
 
-### 💭 Dev Quote
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navyajain7105&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navyajain7105&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navyajain7105&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/navyajain7105">navyajain7105</a></i></p>
+# 💻 Coding Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE/">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Poppins&ext=heatmap"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-2ea043?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-2ea043?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/navyajain7105"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+
+</div>
+
+<h2 align="center">
+Thanks for visiting ✨
+
+Building agents, one edge case at a time 🕸️
+</h2>
