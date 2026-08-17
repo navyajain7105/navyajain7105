@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-2ea043?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="iamnavyajain@gmail.com"><img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[linkedin.com/in/navya-jain-216009354](https://www.linkedin.com/in/navya-jain-216009354/)"><img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://leetcode.com/YOUR_LEETCODE](https://leetcode.com/u/NavyaJain7105/)"><img src="https://img.shields.io/badge/LeetCode-2ea043?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-\`\`\`yaml
+---
 name: Navya Jain
 role: LLM & Agentic AI Engineer
 education: B.Tech CSE @ LNMIIT (2023 - 2027)
@@ -29,7 +29,7 @@ currently_working_on:
   - LLM Engineer Internship @ Quiddity Software Solutions
 leadership: IEEE WIE Chairperson @ LNMIIT
 focus: "the gap between 'the model works in a demo' and 'the model works reliably'"
-\`\`\`
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea043&height=2&width=800"/>
